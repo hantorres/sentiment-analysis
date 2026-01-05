@@ -14,6 +14,8 @@ The program requires the following libraries:
 
 The notebook was tested using Python version 3.13.9.
 
+Dataset: Data was found on Kaggle https://www.kaggle.com/datasets/yasserh/imdb-movie-ratings-sentiment-analysis
+
 ### Pre-Requisites and Setup
 To install missing external libraries on your local machine, open the command prompt and use the following command:
 
